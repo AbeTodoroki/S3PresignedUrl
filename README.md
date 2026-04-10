@@ -7,7 +7,7 @@ Custom n8n node para gerar **URLs pré-assinadas** (presigned URLs) de objetos n
 ### Via Interface do n8n (recomendado)
 
 1. Acesse **Settings → Community Nodes → Install**
-2. Digite o nome do pacote: `n8n-nodes-s3-presign`
+2. Digite o nome do pacote: `n8n-nodes-s3-presignedurl`
 3. Clique em **Install**
 4. Reinicie o n8n quando solicitado
 
