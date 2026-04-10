@@ -1,13 +1,15 @@
 {
-  "name": "S3PresignedUrl",
+  "name": "n8n-nodes-s3-presignedurl",
   "version": "1.0.0",
   "description": "Custom n8n node para gerar URLs pre-assinadas do Amazon S3",
-  "keywords": ["n8n-community-node-package"],
+  "keywords": [
+    "n8n-community-node-package"
+  ],
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbeTodoroki/S3PresignedUrl.git"
+    "url": "git+https://github.com/AbeTodoroki/S3PresignedUrl.git"
   },
   "author": "Abe",
   "n8n": {
