@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbeTodoroki/S3PresignedUrl.git"
+    "url": "git+https://github.com/AbeTodoroki/S3PresignedUrl.git"
   },
   "author": "Abe",
   "n8n": {
