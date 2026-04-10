@@ -1,5 +1,5 @@
 {
-  "name": "S3PresignedUrl",
+  "name": "n8n-nodes-s3-presignedurl",
   "version": "1.0.0",
   "description": "Custom n8n node para gerar URLs pre-assinadas do Amazon S3",
   "keywords": ["n8n-community-node-package"],
